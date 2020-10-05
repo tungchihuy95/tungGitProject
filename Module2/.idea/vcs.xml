@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/M2-1-IntroToJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-AbstractAndInterface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-AccessModifier" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-AutomatedTesting-TDD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-BinaryFiles-Serialization" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-ClassAndObject" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-CleanCode-Refactoring/java-cleancode-refactoring-renaming" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-DSA-Danhsach" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-DSA-Stack-Queue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-DSA-Stack-Queue/module2-DSA-Stack-Queue" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-Exception-and-Debug" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-Exception-and-Debug/code-chi-chau" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-Final-CaseStudy/M2-CaseStudy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-IntroJava" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-KeThu-DaHinh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-Thread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-VongLap" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-b18-Thread" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-data-structure-and-Java-collection-framework" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Module2-thuat-toan-tim-kiem" vcs="Git" />
+  </component>
+</project>

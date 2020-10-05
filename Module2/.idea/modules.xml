@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/M2-1-IntroToJava/M2-1-IntroToJava.iml" filepath="$PROJECT_DIR$/M2-1-IntroToJava/M2-1-IntroToJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Module2.iml" filepath="$PROJECT_DIR$/.idea/Module2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-AbstractAndInterface/Module2-AbstractAndInterface.iml" filepath="$PROJECT_DIR$/Module2-AbstractAndInterface/Module2-AbstractAndInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-AccessModifier/Module2-AccessModifier.iml" filepath="$PROJECT_DIR$/Module2-AccessModifier/Module2-AccessModifier.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-AutomatedTesting-TDD/Module2-AutomatedTesting-TDD.iml" filepath="$PROJECT_DIR$/Module2-AutomatedTesting-TDD/Module2-AutomatedTesting-TDD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-BinaryFiles-Serialization/Module2-BinaryFiles-Serialization.iml" filepath="$PROJECT_DIR$/Module2-BinaryFiles-Serialization/Module2-BinaryFiles-Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-ClassAndObject/Module2-ClassAndObject.iml" filepath="$PROJECT_DIR$/Module2-ClassAndObject/Module2-ClassAndObject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-CleanCode-Refactoring/Module2-CleanCode-Refactoring.iml" filepath="$PROJECT_DIR$/Module2-CleanCode-Refactoring/Module2-CleanCode-Refactoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-DSA-Danhsach/Module2-DSA-Danhsach.iml" filepath="$PROJECT_DIR$/Module2-DSA-Danhsach/Module2-DSA-Danhsach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-DSA-Stack-Queue/Module2-DSA-Stack-Queue.iml" filepath="$PROJECT_DIR$/Module2-DSA-Stack-Queue/Module2-DSA-Stack-Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-Exception-and-Debug/Module2-Exception-and-Debug.iml" filepath="$PROJECT_DIR$/Module2-Exception-and-Debug/Module2-Exception-and-Debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-Final-CaseStudy/Module2-Final-CaseStudy.iml" filepath="$PROJECT_DIR$/Module2-Final-CaseStudy/Module2-Final-CaseStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-IO-TextFile/Module2-IO-TextFile.iml" filepath="$PROJECT_DIR$/Module2-IO-TextFile/Module2-IO-TextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-IntroJava/Module2-IntroJava.iml" filepath="$PROJECT_DIR$/Module2-IntroJava/Module2-IntroJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-KeThu-DaHinh/Module2-KeThu-DaHinh.iml" filepath="$PROJECT_DIR$/Module2-KeThu-DaHinh/Module2-KeThu-DaHinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-Thread/Module2-Thread.iml" filepath="$PROJECT_DIR$/Module2-Thread/Module2-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-VongLap/Module2-VongLap.iml" filepath="$PROJECT_DIR$/Module2-VongLap/Module2-VongLap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-b18-Thread/Module2-b18-Thread.iml" filepath="$PROJECT_DIR$/Module2-b18-Thread/Module2-b18-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-data-structure-and-Java-collection-framework/Module2-data-structure-and-Java-collection-framework.iml" filepath="$PROJECT_DIR$/Module2-data-structure-and-Java-collection-framework/Module2-data-structure-and-Java-collection-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-thuat-toan-tim-kiem/Module2-thuat-toan-tim-kiem.iml" filepath="$PROJECT_DIR$/Module2-thuat-toan-tim-kiem/Module2-thuat-toan-tim-kiem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module2-Exception-and-Debug/code-chi-chau/code-chi-chau.iml" filepath="$PROJECT_DIR$/Module2-Exception-and-Debug/code-chi-chau/code-chi-chau.iml" />
+    </modules>
+  </component>
+</project>
