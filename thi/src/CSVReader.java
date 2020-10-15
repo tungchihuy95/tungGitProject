@@ -18,11 +18,6 @@ public class CSVReader {
             br = new BufferedReader(new FileReader(csvFile));
             while ((line = br.readLine()) != null) {
 
-
-//                String[] country = line.split(cvsSplitBy);
-//
-//                System.out.println("Country [code= " + country[4] + " , name=" + country[5] + "]");
-
             }
 
         } catch (FileNotFoundException e) {
@@ -41,3 +36,7 @@ public class CSVReader {
 
     }
 }
+
+//                String[] country = line.split(cvsSplitBy);
+//
+//                System.out.println("Country [code= " + country[4] + " , name=" + country[5] + "]");

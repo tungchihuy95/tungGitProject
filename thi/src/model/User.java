@@ -96,4 +96,13 @@ public class User implements Comparable<User>{
     public int compareTo(User o) {
         return 0;
     }
+
+    @Override
+    public boolean equals(Object object) {
+        User user = (User) object;
+        if(this.phoneNumber.equals(user.getPhoneNumber())){
+            return true;
+        }
+        return false;
+    }
 }

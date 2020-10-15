@@ -25,7 +25,9 @@ public class UserManagement implements IUser<User> {
     public void add(User object) {
         boolean flag = true;
         for (int i = 0; i < users.size(); i ++) {
-            if (object.getPhoneNumber() == users.get(i).getPhoneNumber()) {
+//            if (object.getPhoneNumber().equals(users.get(i).getPhoneNumber()))
+            if (users.get(i).getPhoneNumber().equals(object.getPhoneNumber()))
+            {
                 flag = false;
                 break;
             }
@@ -37,8 +39,8 @@ public class UserManagement implements IUser<User> {
     @Override
     public void fix(String phone, User newObject) {
         for (int i = 0; i < users.size(); i++) {
-            if (phone == users.get(i).getPhoneNumber()) {
-                users.set(Integer.parseInt(phone), newObject);
+            if (users.get(i).getPhoneNumber().equals(phone)) {
+                users.set(i,newObject);
             }
         }
     }
@@ -46,7 +48,7 @@ public class UserManagement implements IUser<User> {
     @Override
     public void delete(String phone) {
         for (int i = 0; i < users.size(); i++) {
-            if (phone == users.get(i).getPhoneNumber()) {
+            if (phone.equals(users.get(i).getPhoneNumber())) {
                 users.remove(i);
             }
         }
@@ -67,7 +69,7 @@ public class UserManagement implements IUser<User> {
     @Override
     public User findByPhone(String phone) {
         for (int i = 0; i < users.size(); i++) {
-            if (phone == users.get(i).getPhoneNumber()) {
+            if (phone.equals(users.get(i).getPhoneNumber())) {
                 return users.get(i);
             }
         }

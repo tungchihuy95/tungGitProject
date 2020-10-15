@@ -17,8 +17,10 @@ public class Main {
         int choice = -1;
         Scanner input = new Scanner(System.in);
         UserManagement userManagement = new UserManagement();
-        User user = new User();
         List<User> list = new ArrayList<>();
+        User user = new User();
+
+
 
         while (choice != 0) {
             System.out.println("Menu: ");
@@ -46,8 +48,8 @@ public class Main {
                 case 2:
                     System.out.println("-----Add User -----");
                     System.out.println("Enter a phone: ");
-                    String phone1 = input.nextLine();
                     input.nextLine();
+                    String phone1 = input.nextLine();
                     System.out.println("Input group: ");
                     String group1 = input.nextLine();
                     System.out.println("Input a User name: ");
@@ -69,8 +71,8 @@ public class Main {
                 case 3:
                     System.out.println("----Edit User----");
                     System.out.println("Enter a Phone Number: ");
-                    String phone2 = input.nextLine();
                     input.nextLine();
+                    String phone2 = input.nextLine();
                     System.out.println("Input group: ");
                     String group2 = input.nextLine();
                     System.out.println("Input a User name: ");
@@ -93,7 +95,10 @@ public class Main {
                 case 4:
                     System.out.println("------Delete a User ----");
                     System.out.println("Enter an phoneNumber: ");
+                    input.nextLine();
                     String deleteID = input.nextLine();
+
+
                     userManagement.delete(deleteID);
                     list = userManagement.findAll();
                     display(list);
@@ -103,6 +108,7 @@ public class Main {
                 case 5:
                     System.out.println("------Find By PhoneNumber-----");
                     System.out.println("Enter an Phone: ");
+                    input.nextLine();
                     String findPhoneNumber = input.nextLine();
                     user = userManagement.findByPhone(findPhoneNumber);
                     System.out.println(user);
